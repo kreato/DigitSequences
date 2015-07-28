@@ -1,0 +1,19 @@
+#input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    border: 1px solid gray;
+}
+#output {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    word-wrap:break-word;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    width: 405px;
+    height: 200px;
+    border: 1px solid gray;
+}
